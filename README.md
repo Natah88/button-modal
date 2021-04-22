@@ -6,36 +6,35 @@ ou
 
 ## étapes : 
 1- Créer les fichiers : 
-                        - index.php => n'oublie pas d'ajouter les liens "link en css" et "script en js" 
-                        - style.css
-                        - main.js
+                        -index.php => *n'oublie pas d'ajouter les liens "link en css" et "script en js" 
+                        -style.css
+                        -main.js
                         
 2- Ajoute l'icône de Linkedin en balise "img" dans l'html
-      - Nommée: button
+      -Nommée: button
      
 3- Ajoute un balise "div id"
-      - Nommée: modale
+      -Nommée: modale
       
  - Ajoute un autre "div class" 
-      - Nomme-la: modal-content:
-        *Dans modal-content: 
-                             - ajoute un "span id" nommé close <span id="close" class="close">&times;</span> 
+      -Nomme-la: modal-content:
+                             -ajoute un "span id" nommé close <span id="close" class="close">&times;</span> 
                              
-                             - ajoute les liens avec la balise lien "a href"
+                             -ajoute les liens avec la balise lien "a href"
                               
 4- Type de style dans le css qu'on a choisi pour les boutons :
                           .modal {
-                              display: none;
-                              position: fixed; /* Stay in place */
-                            z-index: 1; /* Sit on top */
-                            padding-top: 100px; /* Location of the box */
+                            display: none;
+                            position: fixed;
+                            z-index: 1; 
+                            padding-top: 100px; 
                             left: 0;
                             top: 0;
-                            width: 100%; /* Full width */
-                            height: 100%; /* Full height */
-                            overflow: auto; /* Enable scroll if needed */
-                            background-color: rgb(0,0,0); /* Fallback color */
-                            background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+                            width: 100%;
+                            height: 100%;
+                            overflow: auto;
+                            background-color: rgb(0,0,0);
+                            background-color: rgba(0,0,0,0.4); 
                           }
 
                           .modal-content {
@@ -51,10 +50,10 @@ ou
                               float: right;
                               font-size: 28px;
                               font-weight: bold;
-                            }
+                          }
 
-                            .close:hover,
-                            .close:focus {
+                          .close:hover,
+                          .close:focus {
                               color: #000;
                               text-decoration: none;
                               cursor: pointer;
