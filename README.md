@@ -14,10 +14,12 @@ ou
      
 3- Ajoute un balise "div id"
       - Nommée: modale
-    - Ajoute un autre "div class" 
+      
+ - Ajoute un autre "div class" 
       - Nomme-la: modal-content:
         *Dans modal-content: 
                              - ajoute un "span id" nommé close <span id="close" class="close">&times;</span> 
+                             
                              - ajoute les liens avec la balise lien "a href"
                               
 4- Type de style dans le css qu'on a choisi pour les boutons :
