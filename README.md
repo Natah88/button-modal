@@ -20,8 +20,6 @@ ou
                              -ajoute un "span id" nommé close
                               -=> <span id="close" class="close">&times;</span>
                              -ajoute les liens avec la balise lien "a href"
-                              -=> <a href="https://www.linkedin.com/in/natacha-ralandison-731b47183/" id="Tiavina">Tiavina</a>
-                              -=> <a href="https://www.linkedin.com/in/sonia-rolland-5877281ba/"id="Sonia">Sonia</a>
                               
 4- Type de style dans le css qu'on a choisi pour les boutons :
                           .modal {
