@@ -1,26 +1,25 @@
 # button-modal
 En cliquant l'icône , il nous donne deux choix de liens différents :
--soit celle qui mène vers le linkedin de Tiavina 
-ou
--celle qui mène vers le lien du Linekdin de Sonia 
+- soit celle qui mène vers le linkedin de Tiavina 
+-soit celle qui mène vers le lien du Linekdin de Sonia 
 
 ## étapes : 
 1- Créer les fichiers : 
-                        -index.php => *n'oublie pas d'ajouter les liens "link en css" et "script en js" 
-                        -style.css
-                        -main.js
+                        - index.php => *n'oublie pas d'ajouter les liens "link en css" et "script en js" 
+                        - style.css
+                        - main.js
                         
 2- Ajoute l'icône de Linkedin en balise "img" dans l'html
-      -Nommée: button
+      - Nommée: button
      
 3- Ajoute un balise "div id"
-      -Nommée: modale
+      - Nommée: modale
       
  - Ajoute un autre "div class" 
-      -Nomme-la: modal-content:
-                             -ajoute un "span id" nommé close <span id="close" class="close">&times;</span> 
+      - Nomme-la: modal-content:
+                             - ajoute un "span id" nommé close <span id="close" class="close">&times;</span> 
                              
-                             -ajoute les liens avec la balise lien "a href"
+                             - ajoute les liens avec la balise lien "a href"
                               
 4- Type de style dans le css qu'on a choisi pour les boutons :
                           .modal {
