@@ -5,9 +5,10 @@ ou
 -celle qui mène vers le lien du Linekdin de Sonia 
 
 ## étapes : 
-1- Créer les fichiers : -index.php => n'oublie pas d'ajouter les liens "link en css" et "script en js" 
-                        -style.css
-                        -main.js
+1- Créer les fichiers : 
+                        - index.php => n'oublie pas d'ajouter les liens "link en css" et "script en js" 
+                        - style.css
+                        - main.js
                         
 2- Ajoute l'icône de Linkedin en balise "img" dans l'html
       - Nommée: button
