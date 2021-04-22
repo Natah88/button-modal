@@ -5,13 +5,13 @@ ou
 -celle qui mène vers le lien du Linekdin de Sonia 
 
 ## étapes : 
-###1- Créer les fichiers : -index.php => n'oublie pas d'ajouter les liens "link en css" et "script en js" 
+1- Créer les fichiers : -index.php => n'oublie pas d'ajouter les liens "link en css" et "script en js" 
                         -style.css
                         -main.js
                         
-###2- Ajoute l'icône de Linkedin en balise "img" dans l'html
+2- Ajoute l'icône de Linkedin en balise "img" dans l'html
       - Nommée: button
-###3- Ajoute un balise "div id"
+3- Ajoute un balise "div id"
       - Nommée: modale
     - Ajoute un autre "div class" 
       - Nomme-la: modal-content:
@@ -21,7 +21,7 @@ ou
                               -=> <a href="https://www.linkedin.com/in/natacha-ralandison-731b47183/" id="Tiavina">Tiavina</a>
                               -=> <a href="https://www.linkedin.com/in/sonia-rolland-5877281ba/"id="Sonia">Sonia</a>
                               
-###4- Type de style dans le css qu'on a choisi pour les boutons :
+4- Type de style dans le css qu'on a choisi pour les boutons :
 .modal {
     display: none;
     position: fixed; /* Stay in place */
@@ -58,7 +58,7 @@ ou
     cursor: pointer;
 }   
 
-###5- On a utilisé "const" pour appeller les "id".
+5- On a utilisé "const" pour appeller les "id".
     - Pour les fonctions , on les a écrit: 
 
                           button.addEventListener("click",function(){
