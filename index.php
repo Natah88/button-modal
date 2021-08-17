@@ -14,9 +14,14 @@
 
         <div class="modal-content">
             <span id="close" class="close">&times;</span>
-            <a href="https://www.linkedin.com/in/natacha-ralandison-731b47183/" id="Tiavina">Tiavina</a>
+
+            <a href="https://www.linkedin.com/in/natacha-ralandison-731b47183/" id="Tiavina">Tiavina
+            </a>
+
             <a href="https://www.linkedin.com/in/sonia-rolland-5877281ba/"
-            id="Sonia">Sonia</a>
+            id="Sonia">Sonia
+            </a>
+            
         </div>
 
     </div>
